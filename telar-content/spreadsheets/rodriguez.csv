@@ -1,0 +1,6 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,sa1828prodromo-espanol-edicion,0.5,0.5,1,,What is the relationship between language and government?,This is a core question in Rodríguez's work. Let's go through this page and see.,,,,,,,,
+2,sa1828prodromo-espanol-edicion,0.507141875656114,0.3852553360849452,1.5,,A parallel,"In the Prodromus, Rodríguez establishes a parallel between language and government.",,,,,,,,
+3,sa1828prodromo-espanol-edicion,0.39518423397136543,0.4203241326894594,2.9859839999999997,,Language,"He begins with a description of the ""dogma"" of language",,,,,,,,
+4,sa1828prodromo-espanol-edicion,0.5905209282135987,0.4473175627825212,4.299816959999999,,Government,He also does the same for government,,,,,,,,
